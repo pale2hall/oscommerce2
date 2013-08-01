@@ -1,4 +1,6 @@
 includes/local/configure.php
 admin/includes/local/configure.php
+includes/configure.php
+admin/includes/configure.php
 includes/work/*
 admin/images/graphs/*.png
